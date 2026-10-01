@@ -90,7 +90,7 @@ export default function GemBodyBuilder() {
                 lineHeight: 1,
               }}
             >
-              GEM
+              GYM
             </h1>
             <p style={{ margin: "4px 0 0", fontSize: 12, letterSpacing: "0.06em", textTransform: "uppercase", color: "#8a8783" }}>
               Gym Exercise Manager
