@@ -98,7 +98,7 @@ npm run build
 
 GitHub: https://github.com/Y0uss3f99
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn:https://www.linkedin.com/in/youssef-mohamed-976977334/?isSelfProfile=true
 
 ---
 
